@@ -1,0 +1,9 @@
+D:\MailSendingCode\MailSendingCode\bin\Debug\MailSendingCode.exe.config
+D:\MailSendingCode\MailSendingCode\bin\Debug\MailSendingCode.exe
+D:\MailSendingCode\MailSendingCode\bin\Debug\MailSendingCode.pdb
+D:\MailSendingCode\MailSendingCode\obj\Debug\MailSendingCode.csprojResolveAssemblyReference.cache
+D:\MailSendingCode\MailSendingCode\obj\Debug\MailSendingCode.exe
+D:\MailSendingCode\MailSendingCode\obj\Debug\MailSendingCode.pdb
+D:\ShadowClone\MailSendingCode\MailSendingCode\bin\Debug\MailSendingCode.exe.config
+D:\ShadowClone\MailSendingCode\MailSendingCode\obj\Debug\MailSendingCode.exe
+D:\ShadowClone\MailSendingCode\MailSendingCode\obj\Debug\MailSendingCode.pdb
